@@ -8,4 +8,4 @@ I have expertise in web and software development, dedicated to delivering optimi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mustafabharmal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mustafabharmal&icon=0&color=0)](https://github.com/Mustafabharmal)
